@@ -1,0 +1,48 @@
+
+#title {
+    background-color: rgba(255, 204, 0, 0.701);
+}
+
+h2{
+    font-family: "Montserrat-Bold Italic";
+    padding: 0 0 20px;
+}
+
+h3{
+    font-family: "Montserrat-Bold";
+    font-weight: bold;
+}
+
+.container-fluid{
+    padding: 3% 15%;
+}
+
+.navbar{
+    padding: 0 0 50px;
+}
+
+.navbar-brand{
+    font-family: "Ubuntu";
+}
+.nav-item{
+    padding: 0 18px;
+}
+
+#Menu {
+    padding: 7% 15%;
+}
+
+.feature-box{
+    text-align: center;
+    padding: 5%;
+}
+
+.cold {
+    position: relative;
+}
+
+#Menu {
+    text-align:left;
+    font-family:"Ubuntu-bold";
+
+}
